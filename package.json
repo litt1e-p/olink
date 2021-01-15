@@ -1,0 +1,33 @@
+{
+  "name": "olink",
+  "version": "0.0.1",
+  "description": "d3 organization tree chart",
+  "config": {
+    "libName": "olink"
+  },
+  "keywords": [
+    "organization",
+    "tree",
+    "organ chart",
+    "d3@v6",
+    "d3"
+  ],
+  "author": "litt1e-p",
+  "license": "MIT",
+  "main": "dist/olink.umd.js",
+  "module": "dist/olink.esm.js",
+  "unpkg": "dist/olink.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litt1e-p/olink.git"
+  },
+  "bugs": {
+    "url": "https://github.com/litt1e-p/olink/issues"
+  },
+  "homepage": "https://github.com/litt1e-p/olink#readme",
+  "dependencies": {
+    "core-js": "^3.8.1",
+    "regenerator-runtime": "^0.13.7",
+    "d3": "^6.3.1"
+  }
+}
