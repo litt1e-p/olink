@@ -1,5 +1,5 @@
 # olink
-d3 organization tree chart
+d3.js organization tree chart
 
 ## usage
 
